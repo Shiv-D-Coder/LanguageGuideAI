@@ -2,18 +2,18 @@
 
 Welcome to **LanguageGuideAI**! This application serves as a personalized language learning assistant, offering support in various languages. You can interact with the app to practice conversations, ask questions about grammar and vocabulary, and more.
 
-## Features
+##  🚀 Features
 
 - **Multilingual Support:** Practice and learn languages such as Spanish, French, German, Italian, Japanese, Chinese, and Russian.
 - **Personalized Interaction:** Receive tailored responses to help you learn and practice your target language.
 - **Conversation History:** Keep track of your interactions with the assistant.
 - **User-Friendly Interface:** A clean and intuitive interface for a smooth learning experience.
 
-## Live App
+## 📍 Deployed App
 
-You can try out the live version of the app [here](https://languageguideai.streamlit.app/).
+Explore the live app here: [LanguageGuideAI](https://languageguideai.streamlit.app/)
 
-## Installation
+##  🛠️ Installation
 
 To run the application locally, follow these steps:
 
