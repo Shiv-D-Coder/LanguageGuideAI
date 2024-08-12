@@ -1,4 +1,4 @@
-# LanguageGuideAI
+#  🤖 LanguageGuideAI
 
 Welcome to **LanguageGuideAI**! This application serves as a personalized language learning assistant, offering support in various languages. You can interact with the app to practice conversations, ask questions about grammar and vocabulary, and more.
 
